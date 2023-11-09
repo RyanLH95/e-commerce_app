@@ -28,7 +28,11 @@ const Navbar = () => {
           {
             navigation.map((item) => (
               <Link href={item?.href} key={item._id}>
-                <li className={`hover:text-black cursor-pointer duration-200 relative overflow-hidden group ${item.href === pathname && "text-designColor"}`}>{item?.title}</li>
+                <li className={`hover:text-black cursor-pointer duration-200 relative overflow-hidden group ${item.href === pathname && "text-designColor"}`}
+                >
+                  {item?.title}
+                  <span className={`absolute h-[1px] w-full bg-blue-700 left-0 bottom-0 -translate-x-[100%] group-hover:translate-x-0 transition-transform duration-500 ${item.href === pathname && "translate-x-0 bg-designColor"}`}/>
+                  </li>
               </Link>
             ))
           }
