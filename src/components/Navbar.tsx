@@ -22,7 +22,7 @@ const Navbar = () => {
     <div
       className="w-full h-20 border-b-[1px] border-b-zinc-500 bg-white
        text-zinc-600 sticky top-0 z-50 bg-white/80 backdrop-blur-2xl">
-      <div className="max-w-screen-x1 mx-auto flex h-full items-center px-20 justify-between scroll-px-4 x1:px-0">
+      <div className="max-w-screen-xl mx-auto flex h-full items-center px-20 justify-between scroll-px-4 xl:px-0">
         {/* Logo & */}
         <Logo />
         {/* Navigation */}

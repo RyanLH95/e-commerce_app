@@ -12,7 +12,7 @@ const Logo = ({ className, spanClassName }: Props) => {
     <Link 
       href={"/"} 
       className={cn(
-        "text-zinc-950 text-x1 underline underline-offset-4 decoration-[1px] group", 
+        "text-zinc-950 text-xl underline underline-offset-4 decoration-[1px] group", 
       className
       )}
       >

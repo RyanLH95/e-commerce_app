@@ -70,7 +70,7 @@ const Banner = () => {
   };
   
   return (
-    <div className="lg:main-h-screen relative mb-60">
+    <div className="lg:main-h-screen relative">
       <Slider {...settings}>
         <div className="w-full py-32 lg:py-0 lg:h-screen bg-slate-200">
           <div className="w-full z-0 relative">
@@ -125,7 +125,7 @@ const Banner = () => {
         </div>
       </Slider>
       <div className="h-20 bg-white absolute left-1/2 -bottom-10 transform -translate-x-1/2 hidden
-        lg:inline-flex items-center gap-x-12 p-10">
+        lg:inline-flex items-center gap-x-12 p-10 shadow-xl">
         <div className="flex items-center gap-5 w-60">
           <Clock className="text-designColor w-8 h-8" />
           <div>
