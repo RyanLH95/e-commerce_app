@@ -1,0 +1,98 @@
+[
+    {
+        "title": "Nike Air Force 1",
+        "image": "../../../images/trainers/nike_air_force_1.png",
+        "id": "nike_air_force_white",
+        "price": "109.95"
+    },
+    {
+        "title": "Nike Air Force 1",
+        "image": "/images/trainers/nike_air_force_1_black.png",
+        "id": "nike_air_force_black",
+        "price": "115.00"
+    },
+    {
+        "title": "Nike Air Force 1",
+        "image": "/images/trainers/nike_air_force_1_blackandwhite.png",
+        "id": "nike_air_force_blackAndWhite",
+        "price": "110.00"
+    },
+    {
+        "title": "Nike Dunk Low",
+        "image": "/images/trainers/nike_dunk_low.jpeg",
+        "id": "nike_dunk_low",
+        "price": "110.00"
+    },
+    {
+        "title": "Nike Dunk Low",
+        "image": "/images/trainers/nike_dunk_low_blue.png",
+        "id": "nike_dunk_low_blue",
+        "price": "120.00"
+    },
+    {
+        "title": "Nike Air Max 90 Gel",
+        "image": "/images/trainers/nike_air_max_90_gel.png",
+        "id": "nike_air_max_black",
+        "price": "155.00"
+    },
+    {
+        "title": "Nike Air Max 90",
+        "image": "/images/trainers/nike_air_max_90.png",
+        "id": "nike_air_max_red",
+        "price": "145.00"
+    },
+    {
+        "title": "Nike Air Max 90",
+        "image": "/images/trainers/nike_air_max_90_brown.png",
+        "id": "nike_air_max_brown",
+        "price": "145.00"
+    },
+    {
+        "title": "Adidas Original ZX 750",
+        "image": "/images/trainers/adidas_originals_zx_750.png",
+        "id": "adidas_originals_zx",
+        "price": "90.00"
+    },
+    {
+        "title": "Adidas Original 7X 520",
+        "image": "/images/trainers/adidas_originals_zx_750_brown.png",
+        "id": "adidas_originals_zx_brown",
+        "price": "90.00"
+    },
+    {
+        "title": "Adidas Original AS 520",
+        "image": "/images/trainers/adidas_originals_as_520.png",
+        "id": "adidas_originals_as",
+        "price": "85.00"
+    },
+    {
+        "title": "Adidas Runfalcon 3.0 Shoes",
+        "image": "/images/trainers/adidas_runfalcon_30_shoes.png",
+        "id": "adidas_runfalcon",
+        "price": "50.00"
+    },
+    {
+        "title": "New Balance 327",
+        "image": "/images/trainers/new_balance_327.png",
+        "id": "new_balance_327",
+        "price": "110.00"
+    },
+    {
+        "title": "New Balance 2002R",
+        "image": "/images/trainers/new_balance_2002r.png",
+        "id": "new_balance_2002",
+        "price": "130.00"
+    },
+    {
+        "title": "Emporio Armani EA7 B&W 2.0",
+        "image": "/images/trainers/emporio_armani_ea7b&w_20.png",
+        "id": "emporio_armani_grey",
+        "price": "160.00"
+    },
+    {
+        "title": "Emporio Armani EA7 B&W Laces",
+        "image": "/images/trainers/emporio_armani_ea7b&w_laces.png",
+        "id": "emporio_armani_black",
+        "price": "180.00"
+    }
+]

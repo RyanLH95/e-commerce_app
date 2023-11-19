@@ -1,7 +1,8 @@
 import React from 'react'
 import Container from './Container'
 import Link from 'next/link'
-import {Footprints, Shirt, Watch } from "lucide-react"
+import { Footprints, Shirt, Watch } from "lucide-react"
+import Item from './Item'
 
 const Products = () => {
   return (
@@ -10,7 +11,7 @@ const Products = () => {
         <div className="py-10 flex flex-col gap-2 items-center">
           <h2 className="text-3xl font-semibold">Choose a Category</h2>
           <p className="text-lg text-center">
-            Take a gander out latest design.
+            Take a gander at our latest design.
           </p>
         </div>
         <div className="text-zinc-500 flex justify-center gap-2 md:gap-6 
@@ -51,6 +52,7 @@ const Products = () => {
             <p>Accessories</p>
           </Link>
         </div>
+        <Item />
       </Container>
     </div>
   )
