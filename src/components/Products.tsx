@@ -16,8 +16,8 @@ const Products = () => {
         </div>
         <div className="text-zinc-500 flex justify-center gap-2 md:gap-6 
         mt-5">
-          <Link 
-            href={"/trainers"} 
+          <Link
+            href={"/trainers"}
             className="flex gap-2 hover:text-black cursor-pointer
             duration-200"
           >
@@ -25,8 +25,8 @@ const Products = () => {
             <p>Trainers</p>
           </Link>
           <div className="h-7 w-[1px] bg-designColor inline-flex" />
-          <Link 
-            href={"/trainers"} 
+          <Link
+            href={"/t-shirts"}
             className="flex gap-2 hover:text-black cursor-pointer
             duration-200"
           >
@@ -34,8 +34,8 @@ const Products = () => {
             <p>T-Shirts</p>
           </Link>
           <div className="h-7 w-[1px] bg-designColor inline-flex" />
-          <Link 
-            href={"/sweatshirts"} 
+          <Link
+            href={"/sweatshirts"}
             className="flex gap-2 hover:text-black cursor-pointer
             duration-200"
           >
@@ -43,8 +43,8 @@ const Products = () => {
             <p>Sweatshirts</p>
           </Link>
           <div className="h-7 w-[1px] bg-designColor inline-flex" />
-          <Link 
-            href={"/accessories"} 
+          <Link
+            href={"/accessories"}
             className="flex gap-2 hover:text-black cursor-pointer
             duration-200"
           >
